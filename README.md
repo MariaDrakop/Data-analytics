@@ -1,4 +1,4 @@
-# Data-analytics
+# Example of README.md
 
 This is a sample read.me file
 
